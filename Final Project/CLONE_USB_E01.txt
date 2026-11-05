@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: CASE_USB_B_2026
+Evidence Number: EVI-USB-001
+Unique Description: 
+Examiner: Valentina Hatos
+Notes: Deusto Proyecto final – Opción B
+
+--------------------------------------------------------------
+
+Information for D:\D_Downloads\Proyecto final B\CLONE USB\CLONE USB:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 15
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 245,760
+[Physical Drive Information]
+ Drive Model: VendorCo ProductCode USB Device
+ Drive Serial Number: 9193331066558383838
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 120 MB
+ Sector count:    245760
+[Computed Hashes]
+ MD5 checksum:    6ab98b4f4c1ae76de0768ecba2587e66
+ SHA1 checksum:   d9710e1366fbc5be754d6fc8e8c67b9e52975f03
+
+Image Information:
+ Acquisition started:   Mon Jan  5 13:45:55 2026
+ Acquisition finished:  Mon Jan  5 13:46:05 2026
+ Segment list:
+  D:\D_Downloads\Proyecto final B\CLONE USB\CLONE USB.E01
+ COMPUTED HASH :  6ab98b4f4c1ae76de0768ecba2587e66
+ COMPUTED HASH :  d9710e1366fbc5be754d6fc8e8c67b9e52975f03
+
+Image Verification Results:
+ Verification started:  Mon Jan  5 13:46:05 2026
+ Verification finished: Mon Jan  5 13:46:06 2026
+ MD5 checksum:    6ab98b4f4c1ae76de0768ecba2587e66 : verified
+ SHA1 checksum:   d9710e1366fbc5be754d6fc8e8c67b9e52975f03 : verified
