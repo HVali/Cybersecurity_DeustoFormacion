@@ -29,9 +29,9 @@ Each project includes the documentation as I submitted it to the course, in Span
 |---|---|---|
 | [Final Project – USB Forensic Analysis](Final%20Project) | Computer forensics | [EN](Final%20Project/Final_Project_USB_Forensic_Analysis_Valentina_Hatos.pdf) · [ES](Final%20Project/Proyecto_Final_Analisis_Forense_USB_Valentina_Hatos.pdf) |
 | [Wi-Fi Network Security Analysis](Wi-Fi%20Network%20Security%20Analysis) | Wireless security | [EN](Wi-Fi%20Network%20Security%20Analysis/WiFi_Security_Analysis_Valentina_Hatos.pdf) · [ES](Wi-Fi%20Network%20Security%20Analysis/Analisis_Seguridad_Red_WiFi_Valentina_Hatos.pdf) |
-| [Information Asset Identification](Information_Asset_Identification_Valentina_Hatos) | Security audit | [EN](Information_Asset_Identification_Valentina_Hatos/Information_Asset_Identification_Valentina_Hatos.pdf) · [ES](Information_Asset_Identification_Valentina_Hatos/Identificacion_Activos_Informacion_Valentina_Hatos.pdf) |
+| [Information Asset Identification](Information%20Asset%20Identification) | Security audit | [EN](Information%20Asset%20Identification/Information_Asset_Identification_Valentina_Hatos.pdf) · [ES](Information%20Asset%20Identification/Identificacion_Activos_Informacion_Valentina_Hatos.pdf) |
 | [GDPR Implementation](GDPR%20Implementation) | Data protection compliance | [EN](GDPR%20Implementation/GDPR_Implementation_AgroVerdeDeusto_Valentina_Hatos.pdf) · [ES](GDPR%20Implementation/Implementacion_RGPD_AgroVerdeDeusto_Valentina_Hatos.pdf) |
-| [Secure Web Server on Ubuntu](Secure_Web_Server_Ubuntu_Valentina_Hatos) | Server hardening | [EN](Secure_Web_Server_Ubuntu_Valentina_Hatos/Secure_Web_Server_Ubuntu_Valentina_Hatos.pdf) · [ES](Secure_Web_Server_Ubuntu_Valentina_Hatos/Servidor_Web_Seguro_Ubuntu_Valentina_Hatos.pdf) |
+| [Secure Web Server on Ubuntu](Secure%20Web%20Server%20Ubuntu) | Server hardening | [EN](Secure%20Web%20Server%20Ubuntu/Secure_Web_Server_Ubuntu_Valentina_Hatos.pdf) · [ES](Secure%20Web%20Server%20Ubuntu/Servidor_Web_Seguro_Ubuntu_Valentina_Hatos.pdf) |
 | [Browsing History Recovery](Browsing%20History%20Recovery) | Computer forensics | [EN](Browsing%20History%20Recovery/Browsing_History_Recovery_Autopsy_Valentina_Hatos.pdf) · [ES](Browsing%20History%20Recovery/Recuperacion_Historial_Navegacion_Autopsy_Valentina_Hatos.pdf) |
 
 ### Final Project – USB Forensic Analysis
@@ -67,8 +67,8 @@ I verified that Autopsy can recover the browsing history of Google Chrome after 
 | Forensic acquisition | Identify and label evidence, create a bit-by-bit E01 image and verify its integrity with hashes | [Final Project](Final%20Project) |
 | Forensic analysis | Analyse a forensic image or logical files in Autopsy, recover deleted files and browsing history, and collect metadata | [Final Project](Final%20Project), [Browsing History Recovery](Browsing%20History%20Recovery) |
 | Forensic reporting | Write expert reports structured according to UNE 197010, UNE 71505 and UNE 71506 | [Final Project](Final%20Project), [Browsing History Recovery](Browsing%20History%20Recovery) |
-| Security auditing | Build an inventory of physical, logical and record assets and identify the related risks | [Information Asset Identification](Information_Asset_Identification_Valentina_Hatos) |
-| Server hardening | Install a web server, configure the firewall and enable HTTPS with an SSL certificate | [Secure Web Server on Ubuntu](Secure_Web_Server_Ubuntu_Valentina_Hatos) |
+| Security auditing | Build an inventory of physical, logical and record assets and identify the related risks | [Information Asset Identification](Information%20Asset%20Identification) |
+| Server hardening | Install a web server, configure the firewall and enable HTTPS with an SSL certificate | [Secure Web Server on Ubuntu](Secure%20Web%20Server%20Ubuntu) |
 | Wireless security | Scan a Wi-Fi network, interpret the results and apply a strong password policy | [Wi-Fi Network Security Analysis](Wi-Fi%20Network%20Security%20Analysis) |
 | Data protection | Prepare GDPR compliance documentation and internal procedures for a company | [GDPR Implementation](GDPR%20Implementation) |
 
