@@ -93,10 +93,10 @@ I verified that Autopsy can recover the browsing history of Google Chrome after 
 
 | | Details |
 |---|---|
-| Course | Curso Superior de Ciberseguridad |
+| Course | Curso Superior de Ciberseguridad (Advanced Course in Cybersecurity) |
 | Provider | Deusto Formación |
 | Duration | 200 hours |
 | Start date | 02/07/2024 |
 | Diploma awarded | 09/01/2026 |
-| Final grade | 9.9 |
-| Certificate | [Certificado - Calificacion.pdf](Certificado%20-%20Calificacion.pdf) |
+| Final grade | 9.9/10 |
+| Certificate | Available on request |
